@@ -1,0 +1,10 @@
+datum,checksum,beschrijving,bedrag
+07/23/2021,553,transactie 1,200.00
+07/24/2021,,transactie 2,120.40
+08/01/2021,,transactie 3,98.30
+08/03/2021,232,transactie 4,-230.20
+08/30/2021,884,transactie 5,-10.23
+09/01/2021,,transactie 6,100.23
+09/20/2021,123,transactie 7,213.20
+09/22/2021,,transactie 8,10.30
+10/01/2021,,transactie 9,-123.00
